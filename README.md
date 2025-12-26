@@ -4,12 +4,12 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, games e experiências interativas.  
 
-Atualmente trabalho como **Android Developer no Santander**, com experiência em **arquitetura de apps, bibliotecas Android, segurança mobile e liderança de squads**.  
+Atualmente trabalho como **Android Developer na FCamara**, com experiência em **arquitetura de apps, bibliotecas Android, segurança mobile e liderança de squads**.  
 
 No meu tempo livre, exploro o desenvolvimento de jogos digitais e analógicos, transformando ideias em experiências que refletem minha paixão pelo universo dos games. 
 
 ## 🚀 Sobre mim
-- 💻 7+ anos de experiência em desenvolvimento (Android, segurança, games, VR/AR).  
+- 💻 8+ anos de experiência em desenvolvimento (Android, segurança, games, VR/AR).  
 - 🛡️ Atuei como **Security Developer** criando bibliotecas robustas em **Java, Kotlin, C++ e JavaScript**.  
 - 🎮 Experiência com **Unity, Unreal, Construct e Arduino** para protótipos e games.  
 - 👥 Experiência em **gestão de projetos, liderança de times e mentoria**.  
